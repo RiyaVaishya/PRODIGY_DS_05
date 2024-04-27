@@ -26,7 +26,7 @@ Severity,
 Longitude,
 Latitude,
 Hour_of_Day,
-is_hotspot,
+is_hotspot.
 
 #Key Features:
 
@@ -36,21 +36,21 @@ is_hotspot,
  
 3) Exploratory Data Analysis (EDA):-
  
->Analyze the distribution of accidents by road conditions, weather, and time of day.
+Analyze the distribution of accidents by road conditions, weather, and time of day.
 
->Identify correlations between variables to understand relationships.
+Identify correlations between variables to understand relationships.
 
 4)Visualization:-
 
->Visualize accident hotspots using heatmaps and geographical plots.
+Visualize accident hotspots using heatmaps and geographical plots.
 
->Generate word clouds to highlight contributing factors such as road conditions, weather, and severity.
+Generate word clouds to highlight contributing factors such as road conditions, weather, and severity.
 
 5)nsights Generation:
 
->Identify patterns and trends related to road conditions, weather, and time of day.
+Identify patterns and trends related to road conditions, weather, and time of day.
 
->Extract insights to inform decision-making and accident prevention strategies.
+Extract insights to inform decision-making and accident prevention strategies.
 
 #Dependencies: 
 
